@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Barcode Testing</string>
+    <string name="refrigerator">Refrigerator</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="recipes">Recipes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="scan_food">Scan Food Item</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
